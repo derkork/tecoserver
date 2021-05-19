@@ -15,7 +15,7 @@ TecoServer is a Spring Cloud configuration server, that any Spring-powered appli
 Java 8 or later to start TecoServer. A recent Docker version must be installed on the same host as TecoServer.
 
 ## How to use it?
-It's really easy. Download the JAR file to your development machine and then simply start it:
+It's really easy. Download the [JAR file](https://github.com/derkork/tecoserver/releases/tag/snapshot) to your development machine and then simply start it:
 
 ```bash
 java -jar tecoserver.jar
